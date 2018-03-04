@@ -67,7 +67,7 @@ return /******/ (function(modules) { // webpackBootstrap
 /******/ 	__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };
 /******/
 /******/ 	// __webpack_public_path__
-/******/ 	__webpack_require__.p = "http://anatamassage.com/";
+/******/ 	__webpack_require__.p = "https://saibotx.github.io/anata-react-static/";
 /******/
 /******/ 	// Load entry module and return exports
 /******/ 	return __webpack_require__(__webpack_require__.s = 6);
@@ -2225,4 +2225,4 @@ module.exports = {"type":"service_account","project_id":"anatamassagecalendar","
 /***/ })
 /******/ ]);
 });
-//# sourceMappingURL=static.5041060c.js.map
+//# sourceMappingURL=static.ee860505.js.map
