@@ -67,7 +67,7 @@ return /******/ (function(modules) { // webpackBootstrap
 /******/ 	__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };
 /******/
 /******/ 	// __webpack_public_path__
-/******/ 	__webpack_require__.p = "https://saibotx.github.io/anata-react-static/";
+/******/ 	__webpack_require__.p = "http://anatamassage.com/";
 /******/
 /******/ 	// Load entry module and return exports
 /******/ 	return __webpack_require__(__webpack_require__.s = 6);
@@ -553,7 +553,7 @@ function ProfileSection(props) {
 /* 15 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/raiko-face.c1d8c3ba.jpg";
+module.exports = __webpack_require__.p + "static/raiko-face.f3a1b735.jpg";
 
 /***/ }),
 /* 16 */
@@ -2225,4 +2225,4 @@ module.exports = {"type":"service_account","project_id":"anatamassagecalendar","
 /***/ })
 /******/ ]);
 });
-//# sourceMappingURL=static.4bed0d3b.js.map
+//# sourceMappingURL=static.5041060c.js.map

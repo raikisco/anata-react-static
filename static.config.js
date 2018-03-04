@@ -2,7 +2,7 @@ import React from "react";
 // Though this file is optional, there are SO MANY COOL THINGS you can do here.
 // Read the docs at https://github.com/nozzle/react-static/blob/master/README.md to learn more!
 export default {
-  siteRoot: "https://saibotx.github.io/anata-react-static/",
+  siteRoot: "http://anatamassage.com",
   paths: {
     src: 'src', // The source directory. Must include an index.js entry file.
     dist: 'docs', // The production output directory.
