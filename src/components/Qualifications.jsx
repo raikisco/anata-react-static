@@ -28,6 +28,7 @@ const Qualification = styled("div")`
   display: inline;
   padding: 15px;
   max-width: 150px;
+  flex:1;
 `;
 const Icon = styled("img")`
   width: 150px;

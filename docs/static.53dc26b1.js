@@ -568,7 +568,7 @@ Object.defineProperty(exports, "__esModule", {
 
 var _templateObject = _taggedTemplateLiteral(["\n  margin-top: 50px;\n  width: 100%;\n  display: flex;\n  flex-wrap: wrap;\n  @media(max-width: 950px){\n    flex-direction: column;\n  }\n"], ["\n  margin-top: 50px;\n  width: 100%;\n  display: flex;\n  flex-wrap: wrap;\n  @media(max-width: 950px){\n    flex-direction: column;\n  }\n"]),
     _templateObject2 = _taggedTemplateLiteral(["\n  flex: 1;\n  display: flex;\n  justify-content: space-evenly;\n"], ["\n  flex: 1;\n  display: flex;\n  justify-content: space-evenly;\n"]),
-    _templateObject3 = _taggedTemplateLiteral(["\n  display: inline;\n  padding: 15px;\n  max-width: 150px;\n"], ["\n  display: inline;\n  padding: 15px;\n  max-width: 150px;\n"]),
+    _templateObject3 = _taggedTemplateLiteral(["\n  display: inline;\n  padding: 15px;\n  max-width: 150px;\n  flex:1;\n"], ["\n  display: inline;\n  padding: 15px;\n  max-width: 150px;\n  flex:1;\n"]),
     _templateObject4 = _taggedTemplateLiteral(["\n  width: 150px;\n  @media (max-width: 550px){\n    width:100px;\n  }\n  display: block;\n  margin: auto;\n"], ["\n  width: 150px;\n  @media (max-width: 550px){\n    width:100px;\n  }\n  display: block;\n  margin: auto;\n"]),
     _templateObject5 = _taggedTemplateLiteral(["\n  font-weight: 800;\n"], ["\n  font-weight: 800;\n"]);
 
@@ -2225,4 +2225,4 @@ module.exports = {"type":"service_account","project_id":"anatamassagecalendar","
 /***/ })
 /******/ ]);
 });
-//# sourceMappingURL=static.abfd6a5c.js.map
+//# sourceMappingURL=static.53dc26b1.js.map
