@@ -77,7 +77,7 @@ export default function Services(props) {
             <div>
               <ServiceTitle>Traditional Swedish Massage</ServiceTitle>
               <ServiceDesc>
-                The basic tecniuqes to this are: effleurage, petrissage,
+                The basic techniques to this are: effleurage, petrissage,
                 friction and tapotement. These movements warm up the muscle
                 tissue releasing and breaking up the tension. This releaves
                 stress and improves lymph and blood circulation, promotes deeper

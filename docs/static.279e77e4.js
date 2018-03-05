@@ -67,7 +67,7 @@ return /******/ (function(modules) { // webpackBootstrap
 /******/ 	__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };
 /******/
 /******/ 	// __webpack_public_path__
-/******/ 	__webpack_require__.p = "https://saibotx.github.io/anata-react-static/";
+/******/ 	__webpack_require__.p = "http://www.anatamassage.com/";
 /******/
 /******/ 	// Load entry module and return exports
 /******/ 	return __webpack_require__(__webpack_require__.s = 6);
@@ -99,7 +99,7 @@ exports.Button = exports.SectionContent = exports.Section = undefined;
 
 var _templateObject = _taggedTemplateLiteral(["\n  position: relative;\n  background-color: ", ";\n  min-height: 50vh;\n  text-align: center;\n  color: grey;\n"], ["\n  position: relative;\n  background-color: ", ";\n  min-height: 50vh;\n  text-align: center;\n  color: grey;\n"]),
     _templateObject2 = _taggedTemplateLiteral(["\n  max-width: 800px;\n  padding: 30px;\n  margin: auto;\n"], ["\n  max-width: 800px;\n  padding: 30px;\n  margin: auto;\n"]),
-    _templateObject3 = _taggedTemplateLiteral(["\n  cursor: pointer;\n  color: ", ";\n  border: 2px solid ", ";\n  background-color: rgba(0, 171, 0, 0);\n  border-radius: ", ";\n  padding: ", ";\n  margin: ", ";\n  font-size: ", ";\n  min-width: ", ";\n  @media (max-width: 750px) {\n    font-size: 1.2em;\n    min-width: 180px;\n    margin: 2px;\n  }\n  &:hover {\n    background-color: rgba(0, 171, 0, 0.2);\n  }\n  &:active {\n    background-color: rgba(0, 171, 0, 0.4);\n  }\n  transition: all 0.3s;\n"], ["\n  cursor: pointer;\n  color: ", ";\n  border: 2px solid ", ";\n  background-color: rgba(0, 171, 0, 0);\n  border-radius: ", ";\n  padding: ", ";\n  margin: ", ";\n  font-size: ", ";\n  min-width: ", ";\n  @media (max-width: 750px) {\n    font-size: 1.2em;\n    min-width: 180px;\n    margin: 2px;\n  }\n  &:hover {\n    background-color: rgba(0, 171, 0, 0.2);\n  }\n  &:active {\n    background-color: rgba(0, 171, 0, 0.4);\n  }\n  transition: all 0.3s;\n"]);
+    _templateObject3 = _taggedTemplateLiteral(["\n  cursor: pointer;\n  color: ", ";\n  border: 2px solid ", ";\n  background-color: rgba(0, 171, 0, 0);\n  border-radius: ", ";\n  padding: ", ";\n  margin: ", ";\n  font-size: ", ";\n  min-width: ", ";\n  @media (max-width: 750px) {\n    font-size: 1.2em;\n    min-width: 180px;\n    margin: 2px;\n  }\n  @media (max-width: 500px) {\n    font-size: 1.0em;\n    min-width: 160px;\n    margin: 2px;\n  }\n  &:hover {\n    background-color: rgba(0, 171, 0, 0.2);\n  }\n  &:active {\n    background-color: rgba(0, 171, 0, 0.4);\n  }\n  transition: all 0.3s;\n"], ["\n  cursor: pointer;\n  color: ", ";\n  border: 2px solid ", ";\n  background-color: rgba(0, 171, 0, 0);\n  border-radius: ", ";\n  padding: ", ";\n  margin: ", ";\n  font-size: ", ";\n  min-width: ", ";\n  @media (max-width: 750px) {\n    font-size: 1.2em;\n    min-width: 180px;\n    margin: 2px;\n  }\n  @media (max-width: 500px) {\n    font-size: 1.0em;\n    min-width: 160px;\n    margin: 2px;\n  }\n  &:hover {\n    background-color: rgba(0, 171, 0, 0.2);\n  }\n  &:active {\n    background-color: rgba(0, 171, 0, 0.4);\n  }\n  transition: all 0.3s;\n"]);
 
 var _reactEmotion = __webpack_require__(1);
 
@@ -481,8 +481,8 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 
-var _templateObject = _taggedTemplateLiteral(["\n  position: relative;\n  top: 0%;\n  transform: translateY(-50%);\n  border-radius: 50%;\n  background: url(", ");\n  background-size: cover;\n  width: 250px;\n  padding-bottom: 250px;\n  @media (max-width: 750px) {\n    width: 40%;\n    padding-bottom: 40%;\n  }\n"], ["\n  position: relative;\n  top: 0%;\n  transform: translateY(-50%);\n  border-radius: 50%;\n  background: url(", ");\n  background-size: cover;\n  width: 250px;\n  padding-bottom: 250px;\n  @media (max-width: 750px) {\n    width: 40%;\n    padding-bottom: 40%;\n  }\n"]),
-    _templateObject2 = _taggedTemplateLiteral(["\n  margin-top: -100px;\n"], ["\n  margin-top: -100px;\n"]);
+var _templateObject = _taggedTemplateLiteral(["\n  position: relative;\n  top: 0%;\n  transform: translateY(-50%);\n  border-radius: 50%;\n  background: url(", ");\n  background-size: cover;\n  width: 200px;\n  padding-bottom: 200px;\n  @media (max-width: 500px) {\n    width: 35%;\n    padding-bottom: 35%;\n  }\n"], ["\n  position: relative;\n  top: 0%;\n  transform: translateY(-50%);\n  border-radius: 50%;\n  background: url(", ");\n  background-size: cover;\n  width: 200px;\n  padding-bottom: 200px;\n  @media (max-width: 500px) {\n    width: 35%;\n    padding-bottom: 35%;\n  }\n"]),
+    _templateObject2 = _taggedTemplateLiteral(["\n  margin-top: -100px;\n  @media (max-width: 500px) {\n    margin-top: -80px;\n  }\n"], ["\n  margin-top: -100px;\n  @media (max-width: 500px) {\n    margin-top: -80px;\n  }\n"]);
 
 exports.default = ProfileSection;
 
@@ -566,7 +566,7 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 
-var _templateObject = _taggedTemplateLiteral(["\n  margin-top: 50px;\n  width: 100%;\n  display: flex;\n  flex-wrap: wrap;\n"], ["\n  margin-top: 50px;\n  width: 100%;\n  display: flex;\n  flex-wrap: wrap;\n"]),
+var _templateObject = _taggedTemplateLiteral(["\n  margin-top: 50px;\n  width: 100%;\n  display: flex;\n  flex-wrap: wrap;\n  @media(max-width: 950px){\n    flex-direction: column;\n  }\n"], ["\n  margin-top: 50px;\n  width: 100%;\n  display: flex;\n  flex-wrap: wrap;\n  @media(max-width: 950px){\n    flex-direction: column;\n  }\n"]),
     _templateObject2 = _taggedTemplateLiteral(["\n  flex: 1;\n  display: flex;\n  justify-content: space-evenly;\n"], ["\n  flex: 1;\n  display: flex;\n  justify-content: space-evenly;\n"]),
     _templateObject3 = _taggedTemplateLiteral(["\n  display: inline;\n  padding: 15px;\n  max-width: 150px;\n"], ["\n  display: inline;\n  padding: 15px;\n  max-width: 150px;\n"]),
     _templateObject4 = _taggedTemplateLiteral(["\n  width: 150px;\n  @media (max-width: 550px){\n    width:100px;\n  }\n  display: block;\n  margin: auto;\n"], ["\n  width: 150px;\n  @media (max-width: 550px){\n    width:100px;\n  }\n  display: block;\n  margin: auto;\n"]),
@@ -842,7 +842,7 @@ function Services(props) {
             _react2.default.createElement(
               ServiceDesc,
               null,
-              "The basic tecniuqes to this are: effleurage, petrissage, friction and tapotement. These movements warm up the muscle tissue releasing and breaking up the tension. This releaves stress and improves lymph and blood circulation, promotes deeper breathing, increases and promotes joint flexibility and mental awareness."
+              "The basic techniques to this are: effleurage, petrissage, friction and tapotement. These movements warm up the muscle tissue releasing and breaking up the tension. This releaves stress and improves lymph and blood circulation, promotes deeper breathing, increases and promotes joint flexibility and mental awareness."
             )
           ),
           _react2.default.createElement(
@@ -2225,4 +2225,4 @@ module.exports = {"type":"service_account","project_id":"anatamassagecalendar","
 /***/ })
 /******/ ]);
 });
-//# sourceMappingURL=static.ee860505.js.map
+//# sourceMappingURL=static.279e77e4.js.map

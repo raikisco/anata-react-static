@@ -15,16 +15,19 @@ const ProfilePic = styled("img")`
   border-radius: 50%;
   background: url(${profile});
   background-size: cover;
-  width: 250px;
-  padding-bottom: 250px;
-  @media (max-width: 750px) {
-    width: 40%;
-    padding-bottom: 40%;
+  width: 200px;
+  padding-bottom: 200px;
+  @media (max-width: 500px) {
+    width: 35%;
+    padding-bottom: 35%;
   }
 `;
 
 const ProfileDesc = styled(SectionContent)`
   margin-top: -100px;
+  @media (max-width: 500px) {
+    margin-top: -80px;
+  }
 `;
 
 export default function ProfileSection(props) {

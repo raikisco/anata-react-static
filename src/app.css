@@ -56,6 +56,32 @@ p{
   }
 }
 
+@media (max-width: 500px){
+  h1 {
+    font-size:2.0em;
+  }
+  h2{
+    font-size:1.3em;
+  }
+  h3{
+    font-size:1.0em;
+  }
+  h4{
+    font-size: 0.9em;
+  }
+  h5{
+    font-size:0.8em;
+  }
+  p{
+    font-size: 0.7em;
+  }
+  .rbc-toolbar {
+    flex-direction:column;
+  }
+  .rbc-toolbar-label{
+    margin:5px 0px;
+  }
+}
 
 .rbc-events-container{
   cursor:pointer;

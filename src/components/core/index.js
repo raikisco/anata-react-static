@@ -28,6 +28,11 @@ export const Button = styled("button")`
     min-width: 180px;
     margin: 2px;
   }
+  @media (max-width: 500px) {
+    font-size: 1.0em;
+    min-width: 160px;
+    margin: 2px;
+  }
   &:hover {
     background-color: rgba(0, 171, 0, 0.2);
   }

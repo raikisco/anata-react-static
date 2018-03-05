@@ -15,6 +15,9 @@ const IconRow = styled("div")`
   width: 100%;
   display: flex;
   flex-wrap: wrap;
+  @media(max-width: 950px){
+    flex-direction: column;
+  }
 `;
 const IconGroup = styled("div")`
   flex: 1;
